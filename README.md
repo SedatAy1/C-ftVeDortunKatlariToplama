@@ -1,0 +1,2 @@
+# C-ftVeDortunKatlariToplama
+CıftVeDortunKatlariToplama
